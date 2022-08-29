@@ -1,0 +1,16 @@
+.productlist >ul {
+    list-style: none;
+    margin: 10px auto;
+}
+
+.productlist > ul > li > span button {
+   margin: 10px
+
+}
+
+.product_price{
+    margin: 10px ;
+}
+.product_qty{
+    margin: 10px;
+}

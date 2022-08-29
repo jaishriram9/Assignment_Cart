@@ -1,0 +1,9 @@
+.App{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.App .App_body{
+    display: flex;
+    justify-content: space-between;
+}
